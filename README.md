@@ -1,6 +1,6 @@
 # ShuffleAndSort
 
-Rearrange (shuffle and sort) the order of the card no button clicks
+Rearrange (shuffle and sort) the order of the card on button clicks
 
 ### Environment Setup
 

@@ -1,7 +1,7 @@
 {
   "name": "ShuffleAndSort",
   "version": "1.0.0",
-  "description": "Rearrange (shuffle and sort) the order of the card no button clicks",
+  "description": "Rearrange (shuffle and sort) the order of the card on button clicks",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
