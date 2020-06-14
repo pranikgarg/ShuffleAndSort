@@ -1,0 +1,20 @@
+{
+  "name": "ShuffleAndSort",
+  "version": "1.0.0",
+  "description": "Rearrange (shuffle and sort) the order of the card no button clicks",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "author": "Pranik Garg",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
