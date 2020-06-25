@@ -83,14 +83,15 @@ body {
   .block__content {
     padding: 0;
     flex-direction: row;
+    padding-bottom: 80px;
     background-color: #efefef;
     border-top: 5px solid #bfbfbf;
   }
 
   .content__list {
     padding: 0;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     max-height: 740px;
   }
 
@@ -109,6 +110,8 @@ body {
   .content__buttons {
     order: 2;
     margin: 25px;
+    display: flex;
+    flex-direction: column;
     align-self: flex-start;
   }
 
